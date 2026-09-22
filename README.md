@@ -1,8 +1,8 @@
-Getting started
+## Getting started
 
 This organisation is where we keep our projects, track work and review changes. Everyone here has owner access, so we can all manage repositories and organisation settings. Give the others a heads-up before making changes that affect the whole team.
 
-Where to find things
+## Where to find things
 
 * Repositories: Each project’s files and code. Start with the README inside the repository for setup instructions and project details.
 * Issues: Bugs, ideas and tasks. Check what’s already open before adding something new.
@@ -10,7 +10,7 @@ Where to find things
 * Projects: Boards for organising work and tracking progress, where we’re using them.
 * Settings: Access, integrations and configuration for the organisation or an individual repository.
 
-Making changes
+## Making changes
 
 1. Open the relevant repository and read its README.
 2. Check the existing issues and pull requests so you don’t duplicate someone else’s work. Assign yourself to the issue or leave a comment saying you’re picking it up.
@@ -21,7 +21,7 @@ Making changes
 
 Keep each pull request focused on one task so it’s easy to follow.
 
-Working together
+## Working together
 
 Use issues and pull requests to keep useful decisions with the project. If something is agreed in a chat, add a quick note on GitHub too.
 
